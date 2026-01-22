@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=BandarAI.frontendpractice">
+
 # 🎯 Frontendpractice Projects
 This repository contains my **[frontendpractice](https://www.frontendpractice.com/)** projects, organized by level.  
 
