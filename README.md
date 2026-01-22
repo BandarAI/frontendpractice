@@ -1,4 +1,4 @@
-# 🎯 FrontendPractice Projects
+# 🎯 Frontendpractice Projects
 This repository contains my **[frontendpractice](https://www.frontendpractice.com/)** projects, organized by level.  
 
 ---
